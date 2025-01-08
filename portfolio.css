@@ -1,0 +1,73 @@
+header{
+    text-align: center;
+    background-color: black;
+}
+header h1{
+    color: aliceblue;
+    padding: 25px;
+}
+
+header nav ol li  {
+    color: aliceblue;
+    display:  inline;
+    Margin: 15px;
+    margin-bottom: 5px;
+}
+header nav ol li a {
+    display:  inline;
+    Margin: 15px;
+    text-decoration: none;
+    color: sandybrown;
+    margin-bottom: 5px;
+}
+#Home {
+    background-size: cover;
+    border-radius: 50%;
+    text-align: center;
+    justify-content: center;
+}
+#Home img{
+    background-size: cover;
+    border-radius: 50%;
+    text-align: center;
+    justify-content: center;
+}
+#Bio{
+    text-align: center;
+}
+#Bio h1{
+    text-align: center;
+}
+#Bio p{
+    width: 60%;
+    text-align: center;
+    margin-left: 25%;
+}
+#Skills ul{
+    text-align: center;
+    margin-left: 50px;
+}
+#Skills ul li{
+    display: inline;
+    text-align: center;
+    margin-left: 50px;
+}
+#Skills h1{
+    text-align: center;
+}
+#Portfolio h1{
+    text-align: center;
+}
+#Portfolio  p{
+    text-align: center;
+    background-color: gold;
+    height: 120px;
+    padding-top: 15px;
+}
+#Contact h1{
+    text-align: center;
+}
+.imc{
+    width: 50px;
+    margin-left: 10px;
+}
